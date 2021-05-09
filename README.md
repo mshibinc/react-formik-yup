@@ -1,2 +1,3 @@
 # react-formik-yup
-Created with CodeSandbox
+
+form validation using formik and yup
